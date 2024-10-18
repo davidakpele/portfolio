@@ -1,0 +1,41 @@
+#toggle-view {
+	list-style:none;	
+	font-size:11px;
+	margin:0;
+	padding:0;
+	width:auto;
+}
+.gapp1 .grdnt{color:#1b32e6}
+
+	#toggle-view li {
+		margin:30px;
+		border-bottom:1px solid #ccc;
+		position:relative;
+		cursor:pointer;
+		
+	}
+	
+	#toggle-view h3 {
+		font-size:20px;
+	}
+
+	#toggle-view span {
+		position:absolute;
+		right:-15px; top:0;
+		color:RED;
+		font-size:33px;
+		
+	}
+	
+	#toggle-view p {
+		margin:5px 0;
+		display:none;
+		color: #050505;
+	}
+ .Creation{font-family:roboto;}
+.Creation h3{font-size:40px;color:#333;font-weight:normal;padding-top: 50px;font-family:'alte_din_1451_mittelschriftRg';}
+.Creation h3:first-letter{color:#e62a8b;font-size:50px;}
+.Creation h3 span{color:#888888;font-weight:normal;font-family:'AVA_1';font-size:22px;}
+.container-body{
+    background-color: #edecec;
+}

@@ -1,0 +1,32 @@
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 496 496" style="enable-background:new 0 0 496 496;" width="35" height="35" xml:space="preserve">
+        <rect x="112" y="192" style="fill:#FFCB57;" width="112" height="112"/>
+        <g>	
+             <path style="fill:#E56565;" d="M416,80H80V0h336V80z M96,64h304V16H96V64z"/>
+             <rect x="112" y="32" style="fill:#E56565;" width="16" height="16"/>
+             <rect x="144" y="32" style="fill:#E56565;" width="16" height="16"/>
+             <rect x="176" y="32" style="fill:#E56565;" width="16" height="16"/>
+        </g>
+        <g>
+             <rect x="120" y="104" style="fill:#FFCB57;" width="64" height="64"/>
+             <rect x="216" y="104" style="fill:#FFCB57;" width="64" height="64"/>
+             <rect x="312" y="104" style="fill:#FFCB57;" width="64" height="64"/>
+        </g>
+        <g>
+             <path style="fill:#3F3A34;" d="M0,408c0,22.056,17.944,40,40,40h120v32h-32v16h240v-16h-32v-32h120c22.056,0,40-17.944,40-40v-24H0
+                  V408z M320,480H176v-32h144V480z M16,400h464v8c0,13.232-10.768,24-24,24H40c-13.232,0-24-10.768-24-24V400z"/>
+             <path style="fill:#3F3A34;" d="M456,80h-24v16h24c13.232,0,24,10.768,24,24v248h16V120C496,97.944,478.056,80,456,80z"/>
+             <path style="fill:#3F3A34;" d="M16,120c0-13.232,10.768-24,24-24h24V80H40C17.944,80,0,97.944,0,120v248h16V120z"/>
+             <polygon style="fill:#3F3A34;" points="416,96 400,96 400,320 96,320 96,96 80,96 80,336 416,336 	"/>
+             <polygon style="fill:#3F3A34;" points="224,224 208,224 208,288 112,288 112,304 224,304 	"/>
+             <polygon style="fill:#3F3A34;" points="128,208 224,208 224,192 112,192 112,272 128,272 	"/>
+             <rect x="240" y="192" style="fill:#3F3A34;" width="16" height="16"/>
+             <rect x="272" y="192" style="fill:#3F3A34;" width="112" height="16"/>
+             <rect x="240" y="224" style="fill:#3F3A34;" width="144" height="16"/>
+             <rect x="368" y="288" style="fill:#3F3A34;" width="16" height="16"/>
+             <rect x="240" y="288" style="fill:#3F3A34;" width="112" height="16"/>
+             <rect x="240" y="256" style="fill:#3F3A34;" width="144" height="16"/>
+             <path style="fill:#3F3A34;" d="M192,96h-80v80h80V96z M176,160h-48v-48h48V160z"/>
+             <path style="fill:#3F3A34;" d="M288,96h-80v80h80V96z M272,160h-48v-48h48V160z"/>
+             <path style="fill:#3F3A34;" d="M384,96h-80v80h80V96z M368,160h-48v-48h48V160z"/>
+        </g>
+   </svg>
